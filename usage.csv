@@ -1,0 +1,52 @@
+account,department,month,tokens,seats,active_users
+Wobblesworth Gadgets Inc,Engineering,2026-01,100000,20,18
+Wobblesworth Gadgets Inc,Engineering,2026-02,95000,20,18
+Wobblesworth Gadgets Inc,Engineering,2026-03,90000,20,17
+Wobblesworth Gadgets Inc,Engineering,2026-04,60000,20,15
+Wobblesworth Gadgets Inc,Engineering,2026-05,40000,20,12
+Wobblesworth Gadgets Inc,Engineering,2026-06,35000,20,10
+Quantum Flapjack Corp,Support,2026-01,50000,10,9
+Quantum Flapjack Corp,Support,2026-02,52000,10,9
+Quantum Flapjack Corp,Support,2026-03,48000,10,8
+Quantum Flapjack Corp,Support,2026-04,44000,10,7
+Quantum Flapjack Corp,Support,2026-05,30000,10,5
+Quantum Flapjack Corp,Support,2026-06,28000,10,4
+Nimbus Noodle Co,Marketing,2026-01,20000,5,5
+Nimbus Noodle Co,Marketing,2026-02,21000,5,5
+Nimbus Noodle Co,Marketing,2026-03,22000,5,5
+Nimbus Noodle Co,Marketing,2026-04,23000,5,5
+Nimbus Noodle Co,Sales,2026-04,15000,4,3
+Nimbus Noodle Co,Marketing,2026-05,24000,5,5
+Nimbus Noodle Co,Sales,2026-05,18000,4,4
+Nimbus Noodle Co,Marketing,2026-06,25000,5,5
+Nimbus Noodle Co,Sales,2026-06,20000,4,4
+Sunnydale Sprockets,Engineering,2026-01,30000,8,8
+Sunnydale Sprockets,Engineering,2026-02,31000,8,8
+Sunnydale Sprockets,Engineering,2026-03,32000,8,8
+Sunnydale Sprockets,Engineering,2026-04,45000,8,8
+Sunnydale Sprockets,Engineering,2026-05,46000,8,8
+Sunnydale Sprockets,Engineering,2026-06,47000,8,8
+Blorptech Industries,Ops,2026-01,40000,10,10
+Blorptech Industries,Ops,2026-02,41000,10,10
+Blorptech Industries,Ops,2026-03,42000,10,10
+Blorptech Industries,Ops,2026-04,43000,10,10
+Blorptech Industries,Ops,2026-05,44000,15,14
+Blorptech Industries,Ops,2026-06,45000,15,15
+Zany Zeppelin Corp,IT,2026-01,25000,6,6
+Zany Zeppelin Corp,IT,2026-02,25500,6,6
+Zany Zeppelin Corp,IT,2026-03,24800,6,6
+Zany Zeppelin Corp,IT,2026-04,25200,6,6
+Zany Zeppelin Corp,IT,2026-05,25100,6,6
+Zany Zeppelin Corp,IT,2026-06,25300,6,6
+Pickle Rocket LLC,Product,2026-01,60000,12,11
+Pickle Rocket LLC,Product,2026-02,61000,12,11
+Pickle Rocket LLC,Product,2026-03,60500,12,11
+Pickle Rocket LLC,Product,2026-04,61500,12,12
+Pickle Rocket LLC,Product,2026-05,60800,12,11
+Pickle Rocket LLC,Product,2026-06,61200,12,12
+Moonbeam Waffles Co,Data,2026-01,15000,4,4
+Moonbeam Waffles Co,Data,2026-02,15200,4,4
+Moonbeam Waffles Co,Data,2026-03,15100,4,4
+Moonbeam Waffles Co,Data,2026-04,15300,4,4
+Moonbeam Waffles Co,Data,2026-05,15250,4,4
+Moonbeam Waffles Co,Data,2026-06,15400,4,4
