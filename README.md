@@ -1,5 +1,7 @@
 # Signal Monitor
 
+Part of Built by Garret: https://www.builtbygarret.com
+
 Signal Monitor watches customer usage data and automatically flags accounts that need a customer success or sales conversation, drafting the note for you.
 
 *All company names and numbers in this repository are invented for demonstration.*
